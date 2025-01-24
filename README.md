@@ -1,9 +1,11 @@
 # XYZ-Politics-Privat-
          # Privacy Policy
 
+# Privacy Policy
+
 ## Effective Date: {{ date }}
 
-### {{ getSectionIndex }}. Introduction
+### 1. Introduction
 
 These Privacy Policy (“Privacy Policy”) apply to the use of the website and products provided by **{{ company_name }}** (hereinafter referred to as “we” or “us”). Our registered office is at **{{ company_details }}**.
 
@@ -29,14 +31,14 @@ We may make changes to this Privacy Policy in the future. Check this page from t
 
 ---
 
-### {{ getSectionIndex }}. Information We May Collect About You
+### 2. Information We May Collect About You
 
 We may collect and process the following information:
 - Your name, last name, email address, phone number, contact data, device ID, user preferences, and other data you provide while using the Service.
 
 ---
 
-### {{ getSectionIndex }}. Collecting, Processing, and Using Personal Data
+### 3. Collecting, Processing, and Using Personal Data
 
 We store and process your personal data only when you voluntarily supply it (e.g., by filling out a form or signing up for the Service). Your personal data will only be disclosed if required to implement the contract, render our Services, or if you have given prior consent.
 
@@ -49,19 +51,19 @@ We use third-party services that may collect personal data. You may find their p
 
 ---
 
-### {{ getSectionIndex }}. Why We Collect Information
+### 4. Why We Collect Information
 
 We use your information to deliver Services as per our terms of use. This processing ensures functionality and a better user experience.
 
 ---
 
-### {{ getSectionIndex }}. Cookies and Web Beacons
+### 5. Cookies and Web Beacons
 
 We use cookies to optimize your experience on our website. Cookies store information about visitors’ preferences and usage. You may opt-out of cookies, but doing so may limit certain functionality.
 
 ---
 
-### {{ getSectionIndex }}. Log Files
+### 6. Log Files
 
 Every website access logs user data, including:
 - Date and time of access
@@ -73,19 +75,19 @@ This information is used for improving the Service.
 
 ---
 
-### {{ getSectionIndex }}. Geo-Location Data
+### 7. Geo-Location Data
 
 If geo-location is enabled, we may collect location data via your IP address.
 
 ---
 
-### {{ getSectionIndex }}. Children’s Personal Data
+### 8. Children’s Personal Data
 
 We do not collect data from anyone under the age of **{{ user_age }}**. If such data is discovered, contact us immediately.
 
 ---
 
-### {{ getSectionIndex }}. Data Sharing
+### 9. Data Sharing
 
 We share your information only when necessary:
 - With personnel, suppliers, or subcontractors to fulfill our Services.
@@ -93,13 +95,13 @@ We share your information only when necessary:
 
 ---
 
-### {{ getSectionIndex }}. Data Transmission
+### 10. Data Transmission
 
 Your data is encrypted during transmission. We implement organizational measures to protect it from unauthorized access.
 
 ---
 
-### {{ getSectionIndex }}. Your Rights
+### 11. Your Rights
 
 You have the right to:
 - Request copies of personal data we process.
@@ -110,10 +112,13 @@ You have the right to:
 
 ---
 
-### {{ getSectionIndex }}. Changes to This Privacy Policy
+### 12. Changes to This Privacy Policy
 
 This Privacy Policy may be updated periodically. Significant changes will be communicated via notices on our website. For further details, contact us at **{{{ company_email }}}**.
 
 ---
+
+_This Privacy Policy was created with the help of the [Privacy Policy Generator](http://livechat.com/privacy-policy-generator/?ppg)._
+
 
 _This Privacy Policy was created with the help of the [Privacy Policy Generator](http://livechat.com/privacy-policy-generator/?ppg)._
